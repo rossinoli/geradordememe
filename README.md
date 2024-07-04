@@ -1,3 +1,3 @@
 # Gerador de meme 
-=> javaScript
+* javaScript
 
